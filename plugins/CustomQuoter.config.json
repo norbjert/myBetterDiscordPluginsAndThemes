@@ -1,0 +1,12 @@
+{
+	"all": {
+		"dates": {
+			"quoteDate": {}
+		},
+		"general": {
+			"autoAddNewLine": true,
+			"holdShiftToolbar": false,
+			"alwaysCopy": false
+		}
+	}
+}

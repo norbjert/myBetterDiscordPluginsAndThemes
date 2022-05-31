@@ -1,0 +1,47 @@
+{
+	"all": {
+		"general": {
+			"pinIcon": true,
+			"unreadAmount": true,
+			"channelAmount": true
+		},
+		"pinned": {
+			"313746777104711691": {
+				"channelList": {
+					"8950538288458127": {
+						"id": "8950538288458127",
+						"name": "Pinned Direct Messages #1",
+						"dms": [
+							"899003642189848638"
+						],
+						"pos": 0,
+						"collapsed": false,
+						"color": null
+					}
+				}
+			}
+		},
+		"preCategories": {
+			"friends": {
+				"enabled": false,
+				"collapsed": false
+			},
+			"blocked": {
+				"enabled": false,
+				"collapsed": false
+			},
+			"bots": {
+				"enabled": false,
+				"collapsed": false
+			},
+			"groups": {
+				"enabled": false,
+				"collapsed": false
+			}
+		},
+		"recentOrder": {
+			"channelList": false,
+			"guildList": false
+		}
+	}
+}
